@@ -1,0 +1,6 @@
+{
+  "name": "A For Pollab - Pollab Mia Portfolio",
+  "description": "Official personal portfolio website for Pollab Mia (A For Pollab). Featuring creative work, skills, photography gallery, biography, and contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
